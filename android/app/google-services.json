@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166752917601",
+    "project_id": "fir-cli-2696b",
+    "storage_bucket": "fir-cli-2696b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166752917601:android:1ad70f274b5d9fbb9bb220",
+        "android_client_info": {
+          "package_name": "com.example.syeda_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4_SUjhNwkwsB4lKLTepm6PxTD6Hwi5sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
